@@ -1,0 +1,40 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+.section1 h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.section1 a {
+  color: aquamarine;
+  font-size: 16px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.section2 p {
+  color: gray;
+  font-size: 21px;
+}
+.section3 a {
+  color: aquamarine;
+  font-size: 16px;
+}
+.section4 {
+  text-align: right;
+  font-size: 21px;
+  color: gray;
+}
+video {
+  display: block;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
